@@ -1,0 +1,15 @@
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.exe
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.deps.json
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.runtimeconfig.json
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.dll
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.pdb
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.AssemblyReference.cache
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfo.cs
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.dll
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\refint\EmployeeHierarchy.dll
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.pdb
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.genruntimeconfig.cache
+C:\Users\nikita.dubey\Documents\.NET\EmployeeHierarchy\obj\Debug\net6.0\ref\EmployeeHierarchy.dll
